@@ -20,3 +20,8 @@ Jeżeli masz już konto na GitHub ([patrz 1. artykuł](01_GitHub.md)), wystarczy
 
 Od teraz kiedy wejdziesz na `https://mykindofit-test.github.io/`: 
 ![GitHubPages Theme](/images/02_github_05.png)
+
+zobaczysz zawartość utworzonego właśnie pliku index.md, który z łatwościa możesz edytować składni `Markdown`
+![GitHubPages Theme](/images/02_github_06.png)
+
+Ale ten temat przybliżę w kolejnym wpisie.
