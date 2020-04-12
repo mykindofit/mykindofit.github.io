@@ -27,3 +27,5 @@ Masz ochotę zautomatyzować coś w domu? Masz jakaś inteligentną żarówkę? 
 A jeżeli masz już w domu dysk sieciowy, taki jak np. Synology (i ma on możliwość zainstalowania dockera), to następny artykuł będzie dla Ciebie...
 
 [3. Home Assistant Core na Synology NAS] (articles/03_ha_synology/README.MD)
+
+### CDN
