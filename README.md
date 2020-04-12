@@ -9,7 +9,7 @@ Mam nadzieję, że chociaż jedna informacja z tej strony okaże się dla Was pr
 Najlepiej od miejsca, w którym będziemy mogli przechowywać nasze wirtualne projekty.
 Tak, zgadłeś. GitHub to najpopularniejsze miejsce.
 
-#### Zacznijmy od założenia darmowego konta
+### Zacznijmy od założenia darmowego konta
 
 [1. GitHub - darmowe konto](articles/01_github/README.MD)
 
