@@ -1,4 +1,4 @@
-## My kind of I(o)T
+# My kind of I(o)T
 
 # Kolejna strona o tematyce IT/IOT?
 
@@ -15,5 +15,5 @@ Chcąc stworzyć tę stronę/blog, pierwszą rzeczą, o której właśnie pomyś
 Czy oferują on jakaś darmową usługę związaną z publikacja własnej twórczości w Internecie?
 Okazuje się, że tak. Jest to **GitHub pages**. 
 
-### Jak to działa? 
+## Jak to działa? 
 Nie mam pojęcia, ale postaram się to przetestować :-).
