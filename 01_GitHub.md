@@ -7,9 +7,9 @@ Git to system kontroli wersji. GitHub Pozwala Tobie na przechowywanie programów
 Jak założyć konto?
 
 * wypełnij formularz na [stronie](https://github.com/join)
-![GitHub account](/images/01_gitgub_01.png)
+![GitHub account](/images/01_github_01.png)
 * wybierz darmowy plan
-![GitHub plan](/images/01_gitgub_02.png)
+![GitHub plan](/images/01_github_02.png)
 * wypełnij kilka danych o sobie
 * kliknij *Complete setup*
 * zaloguj się na swoja poczte, której adres podałeś w formularzu
