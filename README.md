@@ -19,7 +19,7 @@ Chcąc stworzyć tę stronę/blog, pierwszą rzeczą, o której właśnie pomyś
 Czy oferują on jakaś darmową usługę związaną z publikacja własnej twórczości w Internecie?
 Okazuje się, że tak. Jest to **GitHub pages**. 
 
-[2. Tworzenie GitHub pages](articles/02_github_pages/README.MD)
+[2. Tworzenie GitHub pages](02_GitHubPages.md)
 
 ### A teraz cos z innej beczki. Synology + Home Asistant
 
