@@ -11,7 +11,7 @@ Tak, zgadłeś. GitHub to najpopularniejsze miejsce.
 
 #### Zacznijmy od założenia darmowego konta
 
-[1. GitHub - darmowe konto] (articles/01_github/README.MD)
+
 
 ### GitHub pages
 
