@@ -18,5 +18,5 @@ Jeżeli masz już konto na GitHub ([patrz 1. artykuł](01_GitHub.md)), wystarczy
 ![GitHubPages Theme](/images/02_github_04.png)
 * zatwierdź wybór
 
-Od teraz kiedy wejdziesz na [](https://mykindofit-test.github.io/): 
+Od teraz kiedy wejdziesz na `https://mykindofit-test.github.io/`: 
 ![GitHubPages Theme](/images/02_github_05.png)
