@@ -16,4 +16,7 @@ Jeżeli masz już konto na GitHub ([patrz 1. artykuł](01_GitHub.md)), wystarczy
 ![GitHubPages Theme](/images/02_github_03.png)
 * wybierz jeden z tematów, np. `MINIMAL`
 ![GitHubPages Theme](/images/02_github_04.png)
-* potwierdź wybór
+* zatwierdź wybór
+
+Od teraz kiedy wejdziesz na [](https://mykindofit-test.github.io/): 
+![GitHubPages Theme](/images/02_github_05.png)
