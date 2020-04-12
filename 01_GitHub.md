@@ -24,3 +24,4 @@ Teraz możesz stworzyć swoje repozytorium na projekty:
 * wybierz czy ma ono być publiczne czy prywatne
 * kliknij na *Create repository*
 ![GitHub plan](/images/01_github_04.png)
+
