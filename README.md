@@ -11,7 +11,7 @@ Tak, zgadłeś. GitHub to najpopularniejsze miejsce.
 
 #### Zacznijmy od założenia darmowego konta
 
-
+[1. GitHub - darmowe konto](articles/01_github/README.MD)
 
 ### GitHub pages
 
@@ -26,6 +26,6 @@ Okazuje się, że tak. Jest to **GitHub pages**.
 Masz ochotę zautomatyzować coś w domu? Masz jakaś inteligentną żarówkę? Chcesz, aby włączała się po zachodzie słońca? Taka możliwość, jak i milion innych da Tobie [Home Assistant] (https://www.home-assistant.io/).
 A jeżeli masz już w domu dysk sieciowy, taki jak np. Synology (i ma on możliwość zainstalowania dockera), to następny artykuł będzie dla Ciebie...
 
-[3. Home Assistant Core na Synology NAS] (articles/03_ha_synology/README.MD)
+[3. Home Assistant Core na Synology NAS](articles/03_ha_synology/README.MD)
 
 ### CDN
