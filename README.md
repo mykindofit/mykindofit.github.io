@@ -1,6 +1,6 @@
 # My kind of I(o)T
 
-# Kolejna strona o tematyce IT/IOT?
+## Kolejna strona o tematyce IT/IOT?
 
 Zgadza się. Jako, że jak każdy człowiek lubię w wolnej chwili pomajsterkować - naprawić/stworzyć/popsuć (najczęściej to ostatnie) to wpadłem na ten jakże oryginalny pomysł, aby niektórymi pomysłami się z Wami podzielić.
 Niby wszystko można w Internecie znaleźć, ale nieraz same poszukiwania zajmują tyle czasu, że aż cały zapal się na tym kończy ;-).
