@@ -1,5 +1,4 @@
 ![GitHub Logo](/images/GitHub_Logo.png)
-Format: ![Alt Text](https://github.com/)
 
 ## GitHub - darmowe konto
 
