@@ -16,3 +16,11 @@ Jak założyć konto?
 * kliknij *Verify email address* w mailu od GitHub
 
 **GOTOWE**
+
+Teraz możesz stworzyć swoje repozytorium na projekty:
+* kliknij na *Create repository*
+![GitHub plan](/images/01_github_03.png)
+* wpisz nazwę repozytorium
+* wybierz czy ma ono być publiczne czy prywatne
+* kliknij na *Create repository*
+![GitHub plan](/images/01_github_04.png)
