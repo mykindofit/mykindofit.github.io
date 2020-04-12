@@ -23,8 +23,7 @@ Okazuje się, że tak. Jest to **GitHub pages**.
 
 ### A teraz cos z innej beczki. Synology + Home Asistant
 
-Masz ochotę zautomatyzować coś w domu? Masz jakaś inteligętna żarówkę? Chcesz, aby właczała się po zachodzie słońca?
-Taka możliwość, jak i milion innch da Tobie [Home Assistant] (https://www.home-assistant.io/).
+Masz ochotę zautomatyzować coś w domu? Masz jakaś inteligentną żarówkę? Chcesz, aby włączała się po zachodzie słońca? Taka możliwość, jak i milion innych da Tobie [Home Assistant] (https://www.home-assistant.io/).
 A jeżeli masz już w domu dysk sieciowy, taki jak np. Synology (i ma on możliwość zainstalowania dockera), to następny artykuł będzie dla Ciebie...
 
 [3. Home Assistant Core na Synology NAS] (articles/03_ha_synology/README.MD)
