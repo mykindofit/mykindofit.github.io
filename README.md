@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## My kind of I(o)T
 
-You can use the [editor on GitHub](https://github.com/mykindofit/mykindofit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Hej. Kolejna strona o tematyce IT/IOT?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zgadza się. Jako, że jak każdy człowiek lubię w wolnej chwili pomajsterkować - naprawić/stworzyć/popsuć (najczęściej to ostatnie) to wpadłem na ten jakże oryginalny pomysł, aby niektórymi pomysłami się z Wami podzielić.
+Niby wszystko można w Internecie znaleźć, ale nieraz same poszukiwania zajmują tyle czasu, że aż cały zapal się na tym kończy ;-).
+Mam nadzieję, że chociaż jedna informacja z tej strony okaże się dla Was przydatna.
 
-### Markdown
+# Od czego zacząć? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Najlepiej od miejsca, w którym będziemy mogli przechowywać nasze wirtualne projekty.
+Tak, zgadłeś. GitHub to najpopularniejsze miejsce.
 
-```markdown
-Syntax highlighted code block
+Chcąc stworzyć tę stronę/blog, pierwszą rzeczą, o której właśnie pomyślałem był GitHub?
+Czy oferują on jakaś darmową usługę związaną z publikacja własnej twórczości w Internecie?
+Okazuje się, że tak. Jest to **GitHub pages**. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mykindofit/mykindofit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Jak to działa? 
+Nie mam pojęcia, ale postaram się to przetestować :-).
