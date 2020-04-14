@@ -5,3 +5,7 @@ title: My kind of IT
 relative_links:
   enabled:     true
   collections: false
+footer:
+  links:
+    - label: "Ogłoszenia nieruchomości"
+      url: "https://adresowo.pl/"
